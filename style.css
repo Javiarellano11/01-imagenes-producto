@@ -1,0 +1,73 @@
+body {
+  background-color: rgb(40, 50, 60);
+}
+
+h1 { 
+  font-family: impact, charcoal, sans-serif;
+  font-size: 100px;
+  color: rgb(105, 130, 145);
+}
+
+.white-box {
+  background-color: white;
+  text-align: center;
+  border: 2px solid white;
+  width: 100%;
+}
+
+p {
+  font-size: 29px;
+  font-family: Arial, sans-serif;
+  color: rgb(187, 223, 234);
+  text-align: justify;
+}
+
+h2 {
+  font-style: oblique;
+  font-size: 50px;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+.color01 {
+  color: rgb(230, 200, 190);
+}
+
+.color02 {
+  color: rgb(150, 185, 205);
+}
+
+.color03 {
+  color: rgb(185, 190, 185);
+}
+
+.color04 {
+  color: rgb(140, 150, 160);
+}
+
+.color05 {
+  color: rgb(175, 175, 170);
+}
+
+.margen {
+  margin-left: 40px;
+}
+
+.borde01 {
+  border: 5px solid rgb(230, 200, 190);
+}
+
+.borde02 {
+  border: 5px solid rgb(150, 185, 205);
+}
+
+.borde03 {
+  border: 5px solid rgb(185, 190, 185);
+}
+
+.borde04 {
+  border: 5px solid rgb(140, 150, 160);
+}
+
+.borde05 {
+  border: 5px solid rgb(175, 175, 170);
+}
